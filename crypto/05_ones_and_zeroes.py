@@ -14,7 +14,7 @@ for elem in cipher.split():
     dec  = 0
     signif = 1
     for digit in  elem[::-1]:
-        if digit == '1':
+        if int(digit):
             dec += signif
         signif *= 2
 
