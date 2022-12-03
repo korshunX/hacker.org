@@ -1,0 +1,8 @@
+the cipher is: ISS NVVK DIPXYWA PIT AVSUY QIAOP PWZEHVNWIEDZ. CDYT ZVM LOTK HDY AVSMHOVT HV HDOA HYFH, ZVM COSS QY IQSY HV NYH HDY ITACYW, CDOPD OA IKMGQWIHY.
+
+It's an alphabet substitution cipher as you could clearly can see.
+
+No chance to forge a code breaker in a hurry. 
+Therefore I would use tables for the frequency of the letters of the alphabet in English and english dictionaries.
+So, a sheet of paper and a pencil. 
+Or an online tool serves best.
