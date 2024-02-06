@@ -1,0 +1,7 @@
+Flip the one way?
+
+Oh yes, it's an md5 hash obviously. It's not reversable. 
+But there a hash decrypter online working with rainbow tables.
+So keep your fingers crossed and yes, you are able to find the solution. 
+
+=) 
